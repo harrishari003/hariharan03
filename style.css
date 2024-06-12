@@ -526,4 +526,10 @@
 .seemore{
     align-items: center;
 }
+#aboutme{
+    padding: 0px 16px;
+}
+#projects{
+    padding: 0px 16px;
+}
 }
